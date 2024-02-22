@@ -25,6 +25,7 @@
 
 | Property Name | Data Type | Description          |
 | ------------- | --------- | -------------------- |
+| Id            | int       | Id for database      |
 | Name          | string    | Name of the pet      |
 | Date of birth | Date      | To calculate the age |
 | Type          | string    | Type of the animal   |
@@ -33,6 +34,7 @@
 
 | Property Name | Data Type | Description           |
 | ------------- | --------- | --------------------- |
+| Id            | int       | Id for database       |
 | Name          | string    | Name of the person    |
 | Phone         | string    | Person's phone number |
 | Pets          | Pet[]     | List of pets          |
